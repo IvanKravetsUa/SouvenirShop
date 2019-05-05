@@ -2,7 +2,6 @@
 
 How the program works
 1) Download all files
-<<<<<<< HEAD
 2) Open index.html in the browser 
 3) For opening browser console to view the results press the combination Ctrl + Shift + I
 4) Follow the steps in the browser window
@@ -20,8 +19,3 @@ Application menu:
 5) If you no longer need the program and want to exit, enter "5".
 
 P.S. See all results in the browser console. Thanks for attention)))
-=======
-2) Open index.html in the browser
-3) Follow the steps in the browser window
-4) Open the browser console to view the results
->>>>>>> caa12495a7c68cf9208b77a15d20209ec186f35a
